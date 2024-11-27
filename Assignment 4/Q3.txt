@@ -1,0 +1,10 @@
+What is the paper about?
+
+
+The paper is about automatic extraction of results from machine learning papers. It presents a method called AxCell, which is designed to extract relevant information from machine learning papers. The authors use a dataset of machine learning papers and evaluate the performance of AxCell on this dataset. They also compare the performance of AxCell with other state-of-the-art methods. The paper discusses the challenges of extracting results from machine learning papers and proposes a solution using AxCell. The authors also provide a detailed analysis of the results and discuss the implications of their findings. The paper is relevant to researchers and practitioners in the field of natural language processing and machine learning.
+
+
+What is new about the paper?
+
+
+The paper introduces AxCell, a novel method for automatic extraction of results from machine learning papers. The authors propose a template-based approach to extract relevant information from papers, which can be used for various applications such as summarization, information retrieval, and document analysis. The paper presents a comprehensive evaluation of AxCell on a large dataset and demonstrates its effectiveness in extracting accurate results. The authors also discuss the limitations and potential future directions for the proposed method. The paper is significant because it addresses a crucial problem in the field of natural language processing and provides a practical solution for extracting relevant information from machine learning papers.
